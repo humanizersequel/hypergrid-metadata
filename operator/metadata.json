@@ -1,0 +1,18 @@
+{
+    "name": "operator",
+    "description": "give your language model a wallet and let it spend your money",
+    "image": "https://imgur.com/a/KWwDCUW",
+    "properties": {
+        "package_name": "operator",
+        "current_version": "0.1.0",
+        "publisher": "grid-beta.hypr",
+        "mirrors": [],
+        "code_hashes": {
+            "0.1.0": "a3e4bac5f5928dc091689856750626e00b574f21ca3c756203b6939690222eeb"
+        },
+        "wit_version": 1,
+        "dependencies": []
+    },
+    "external_url": "",
+    "animation_url": ""
+}
