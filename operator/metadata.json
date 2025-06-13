@@ -1,7 +1,7 @@
 {
     "name": "operator",
-    "description": "give your language model a wallet and let it spend your money",
-    "image": "https://imgur.com/a/KWwDCUW",
+    "description": "Hypergrid Operator Client",
+    "image": "https://raw.githubusercontent.com/humanizersequel/hypergrid-metadata/refs/heads/main/operatoricon.webp",
     "properties": {
         "package_name": "operator",
         "current_version": "0.1.0",
