@@ -1,7 +1,7 @@
 {
   "name": "Hypergrid Provider Client",
   "description": "Client for Hypergrid Providers",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/humanizersequel/hypergrid-metadata/refs/heads/main/provider.webp",
   "properties": {
     "package_name": "hypergrid-provider",
     "current_version": "0.1.0",
