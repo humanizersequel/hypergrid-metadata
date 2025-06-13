@@ -8,8 +8,8 @@
         "publisher": "grid-beta.hypr",
         "mirrors": [],
         "code_hashes": {
-            "0.1.0": "a3e4bac5f5928dc091689856750626e00b574f21ca3c756203b6939690222eeb"
-            "0.2.0"" "e49a3b874599d7553250db59933338491792a727fd64940ba79409317a1f67e2"
+            "0.1.0": "a3e4bac5f5928dc091689856750626e00b574f21ca3c756203b6939690222eeb",
+            "0.2.0": "e49a3b874599d7553250db59933338491792a727fd64940ba79409317a1f67e2"
         },
         "wit_version": 1,
         "dependencies": []
