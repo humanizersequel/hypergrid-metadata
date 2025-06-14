@@ -1,6 +1,6 @@
 {
-    "name": "operator",
-    "description": "Hypergrid Operator Client",
+    "name": "Hypergrid Operator Client",
+    "description": "Client for Hypergrid Operators",
     "image": "https://raw.githubusercontent.com/humanizersequel/hypergrid-metadata/refs/heads/main/operatoricon.webp",
     "properties": {
         "package_name": "operator",
