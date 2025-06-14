@@ -4,11 +4,12 @@
   "image": "https://raw.githubusercontent.com/humanizersequel/hypergrid-metadata/refs/heads/main/provider.webp",
   "properties": {
     "package_name": "hypergrid-provider",
-    "current_version": "0.1.0",
+    "current_version": "0.2.0",
     "publisher": "grid-beta.hypr",
     "mirrors": [],
     "code_hashes": {
-      "0.1.0": "3ce64c2e828afa927858edce05f683c803070629561f86dd4bdf69ac59eccac2"
+      "0.1.0": "3ce64c2e828afa927858edce05f683c803070629561f86dd4bdf69ac59eccac2",
+      "0.2.0": "da04449129051b897b473f72e217960c65e46827e2c3655837606c4b0e857b44"
     },
     "wit_version": 1,
     "dependencies": [  
