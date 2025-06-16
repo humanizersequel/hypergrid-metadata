@@ -4,12 +4,13 @@
     "image": "https://raw.githubusercontent.com/humanizersequel/hypergrid-metadata/refs/heads/main/operatoricon.webp",
     "properties": {
         "package_name": "operator",
-        "current_version": "0.2.0",
+        "current_version": "0.2.1",
         "publisher": "grid-beta.hypr",
         "mirrors": [],
         "code_hashes": {
             "0.1.0": "a3e4bac5f5928dc091689856750626e00b574f21ca3c756203b6939690222eeb",
-            "0.2.0": "e49a3b874599d7553250db59933338491792a727fd64940ba79409317a1f67e2"
+            "0.2.0": "e49a3b874599d7553250db59933338491792a727fd64940ba79409317a1f67e2",
+            "0.2.1": "e5a88b7b85782a9a5801a431b219e769350ae2e722c7b6aa2efd60c1386f37f1"
         },
         "wit_version": 1,
         "dependencies": []
